@@ -1,26 +1,3 @@
 body{
   background-color: #282c34;
 }
-.header{
-  padding: 10px;
-  color:limegreen;
-  height:fit-content ;
-  width: fit-content;
-  text-decoration: none;
-  border-left: 5px solid limegreen;
-  border-right: 5px solid limegreen;
-  border-top: .5px solid limegreen;
-  border-bottom: .5px solid limegreen;
-  font-size:xx-large;
-  font-weight: bold;
-  border-radius: 10px;
-  background-color: #282c34;
-}
-.menu{
-  margin-top: 10px;
-  margin-left: 5px;
-  border: 3px solid limegreen;
-  height: max-content;
-  padding: 25px;
-  border-radius: 10px;
-}
