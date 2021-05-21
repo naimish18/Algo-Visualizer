@@ -134,6 +134,7 @@ export default class Searching extends React.Component{
                 setTimeout(()=>{
                     array_circle[j].innerHTML=array[j];
                     array_circle[j].style.backgroundColor='yellow';
+                    array_circle[j].style.color='black';
                 },j*500);
   
             }
