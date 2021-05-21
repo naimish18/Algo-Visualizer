@@ -81,7 +81,7 @@
       justify-content: space-between;
       left: 50%;
       transform: translateX(-50%);
-
+      
   }
   #new_arr:hover{
       box-shadow: 3px 3px 3px rgb(100, 100, 100);
